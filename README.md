@@ -1,5 +1,5 @@
 # SpaceWar (CS50G Final Project)
-#### Video Demo: https://youtu.be/DUgePg9MTV8
+#### Video Demo: https://youtu.be/92F-6dCY1Oc
 
 ## Description
 This is my final project for CS50G built in Unity. At this stage it is a very simple game with only one level. I started this project with the goal of trying to implement a combat system similar to Starsector from scratch. This project does not use any external resources.
